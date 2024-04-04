@@ -11,7 +11,7 @@
       -- 4 --
 */
 
-module seg7 (
+module tt_um_jasmineflower16 (
     input wire [3:0] counter,
     output reg [6:0] segments
 );
